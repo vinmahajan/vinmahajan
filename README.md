@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Plagiarism Detection**
 
-- 🌱 I’m currently learning **Artificial Intelligence, and I will make one.**
+- 🌱 I’m currently learning **Artificial Intelligence.**
 
 - 🤝 I’m looking a collaborator to **make something innovative**
 
