@@ -19,6 +19,7 @@ I'm a passionate software developer with a love for coding and creating awesome 
 ## Projects
 Here are some of the projects I'm proud of:
 
+- [Embedded System Projects](https://github.com/vinmahajan/Embedded-System-Projects): Multiple interesting and innovative projects using various Microcontrollers, Modules, Sensors and Actuators.
 - [Plagiarism Detection System](https://github.com/vinmahajan/Plagiarism_Detection): Plagiarism Detection System, designed to identify similarities between a given text and existing online content.
 - [Depression Detection Using Machine Learning](https://github.com/vinmahajan/Depression-Detection-Using-Machine-learning):  Developed a full stack machine learning-based project utilizing social media data to detect early signs of depression.
 - [Advanced GPS Tracker with Fall Detection System](https://github.com/vinmahajan/): Developed an advanced GPS tracker with fall detection using an accelerometer, integrated with real-time location tracking. Enabled IoT connectivity for real-time data transmission to Firebase cloud server using and GSM/GPRS modules, implementing HTTP protocol for efficient data transfer.
@@ -26,7 +27,7 @@ Here are some of the projects I'm proud of:
 
 ## Get in Touch
 - Gmail: [vinayakmahajan06@gmail.com](vinayakmahajan06@gmail.com)
-- LinkedIn: [vinayakmahajan06](https://linkedin.com/in/vinayakmahajan06)
+- LinkedIn: [vinayakmahajan06](https://linkedin.com/in/vinayakmahajan06) / [vinayakmahajan01](https://linkedin.com/in/vinayakmahajan01)
 
 ## 🌱 I’m currently learning
 I believe in lifelong learning. Currently, I'm diving deep into **Embedded Systems**
